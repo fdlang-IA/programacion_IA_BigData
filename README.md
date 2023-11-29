@@ -1,1 +1,1 @@
-Explicar contenido 
+Explicar contenido
