@@ -26,9 +26,8 @@ Una vez seleccionado aparecerá un botón de NEW SSH key, se debe pinchar sobre 
 # 1.3 Iniciar repositorio local, preparar cambios, guardar cambios y subir cambios.
 
 Una vez creado el repositorio en GitHub y configurado las claves SSH elegimos en nuestra maquina un directorio o creamos uno nuevo, en él se procede a crear un archivo README.md y otro holaMundo.py, desde el terminal y situado en el directorio donde se encuentran los archivos, se procede a iniciar el repositorio con los siguientes comandos: 
--	git init -> Crea una nueva carpeta oculta llamada ".git" en el directorio actual. Esta carpeta contiene todos los archivos necesarios para que Git funcione y gestione el control de versiones.
-
 ```bash
+    -	git init -> Crea una nueva carpeta oculta llamada ".git" en el directorio actual. Esta carpeta contiene todos los archivos      necesarios para que Git funcione y gestione el control de versiones.
 
     -	git add . -> Preparara los cambios para ser incluidos en el próximo commit.
 
